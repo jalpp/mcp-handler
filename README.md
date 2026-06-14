@@ -5,10 +5,10 @@ A Vercel adapter for the Model Context Protocol (MCP), enabling real-time commun
 ## Installation
 
 ```bash
-npm install mcp-handler @modelcontextprotocol/sdk@1.26.0 zod@^3
+npm install mcp-handler @modelcontextprotocol/sdk@1.29.0 zod@^3
 ```
 
-> **Note**: Versions of `@modelcontextprotocol/sdk` prior to 1.26.0 have a security vulnerability. Use version 1.26.0 or later.
+> **Note**: Versions of `@modelcontextprotocol/sdk` prior to 1.29.0 have a security vulnerability. Use version 1.26.0 or later.
 
 ## Quick Start (Next.js)
 
